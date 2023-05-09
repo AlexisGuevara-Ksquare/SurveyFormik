@@ -1,12 +1,15 @@
+.snkrsTitle {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    background-color: #515151;
+}
 
-form {
-    display: block;
-    max-width: 500px;
+.forms {
+    justify-items: center;
+    width: 500px;
     padding: 20px;
-
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    padding-left: 30%;
 
 }
